@@ -1,0 +1,45 @@
+h1
+	{
+		color: red;
+		font-family: verdana;
+		font-size:60px;
+	}
+
+
+p 
+	{
+		color:blue;
+		font-size:40px;
+	}
+
+table, th,td
+	{
+		borde: 3px solid blak;
+		border-collapse: collapse;
+
+	}
+
+th, td {
+
+        padding: 10px;
+    
+        text-align: left;
+
+       }
+
+table, th, td {
+
+               border: 2px solid purple;
+           
+               border-collapse: collapse;
+
+              }
+
+
+th, td {
+
+        padding: 5px;
+    
+        text-align: left;
+
+       }
