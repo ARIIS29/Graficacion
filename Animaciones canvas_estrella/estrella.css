@@ -1,0 +1,22 @@
+ #estrella{
+  left: 30px;
+  position: relative;
+  border-radius: 30px;
+  width: 300px;
+  height: 20px;
+
+  -webkit-animation-name: animacion;
+  -webkit-animation-duration: 1s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+ }
+
+ @-webkit-keyframes animacion{
+
+    from{
+      left: 30px;
+    }
+    to{
+      left: 100px;
+    }
+ }
